@@ -1,5 +1,5 @@
 # SocialBrothersCase
-SocialBrothersCase Api door jim Bekker
+SocialBrothersCase Api door Jim Bekker
 
 Startop stappen:
   1. Om het project op te starten moet je dit project twee keer openen in visualstudio 2019.
